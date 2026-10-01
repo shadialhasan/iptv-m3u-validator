@@ -3,11 +3,11 @@
 > **Topics:** `iptv` `m3u-playlist` `stream-validator` `hls` `concurrency` `multithreading` `media-streaming`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/iptv-m3u-validator/releases/tag/v1.0.0)
-[![CI Pipeline](https://github.com/MobileConduit/iptv-m3u-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/iptv-m3u-validator/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/iptv-m3u-validator/releases/tag/v1.0.0)
+[![CI Pipeline](https://github.com/shadialhasan/iptv-m3u-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/iptv-m3u-validator/actions)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Performance: Multithreaded](https://img.shields.io/badge/Concurrency-ThreadPool-brightgreen.svg)](https://github.com/MobileConduit)
+[![Performance: Multithreaded](https://img.shields.io/badge/Concurrency-ThreadPool-brightgreen.svg)](https://github.com/shadialhasan)
 
 A high-speed, enterprise-grade concurrent validator and sanitizer for IPTV `M3U` and `M3U8` playlists. It concurrently tests media stream endpoints, identifies dead links, tracks live latency and throughput metrics, and generates sanitised, production-ready playlists for IPTV middleware, VLC, Plex, and media players.
 
@@ -96,7 +96,7 @@ sequenceDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/MobileConduit/iptv-m3u-validator.git
+git clone https://github.com/shadialhasan/iptv-m3u-validator.git
 cd iptv-m3u-validator
 
 # Copy environment configuration
@@ -161,7 +161,7 @@ pytest --cov=validator tests/
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
