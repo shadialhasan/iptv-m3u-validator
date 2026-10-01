@@ -1,5 +1,6 @@
 # 📺 iptv-m3u-validator
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/iptv-m3u-validator/releases/tag/v1.0.0)
 [![CI Pipeline](https://github.com/MobileConduit/iptv-m3u-validator/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/iptv-m3u-validator/actions)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
