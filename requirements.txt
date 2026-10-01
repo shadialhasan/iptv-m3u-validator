@@ -1,1 +1,7 @@
-# Zero external dependencies
+# Core runtime dependencies
+# Python standard library used for core execution (urllib, concurrent.futures)
+
+# Test & Quality Assurance dependencies
+pytest>=7.4.0
+coverage>=7.0.0
+flake8>=6.0.0

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN HD" tvg-logo="https://example.com/cnn.png" group-title="News",CNN International
+http://example.com/live/cnn/live.m3u8
+#EXTINF:-1 tvg-id="BBC.uk" tvg-name="BBC World" tvg-logo="https://example.com/bbc.png" group-title="News",BBC News HD
+https://example.com/live/bbc/stream.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera Arabic" group-title="Arabic News",Al Jazeera Satellite
+http://example.com/live/aljazeera/live.m3u8
+#EXTINF:-1 tvg-id="DeadChannel.xyz" group-title="Testing",Dead Test Channel
+http://192.0.2.1/invalid/dead_stream.m3u8
