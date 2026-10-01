@@ -1,0 +1,12 @@
+{
+  "description": "High-speed concurrent IPTV M3U/M3U8 playlist stream validator, latency tracker, and channel purifier",
+  "topics": [
+    "iptv",
+    "m3u-playlist",
+    "stream-validator",
+    "hls",
+    "concurrency",
+    "multithreading",
+    "media-streaming"
+  ]
+}
